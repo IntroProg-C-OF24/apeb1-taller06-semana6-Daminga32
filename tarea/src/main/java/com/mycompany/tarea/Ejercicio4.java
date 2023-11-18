@@ -51,7 +51,7 @@ public class Ejercicio4 {
                 System.out.println("Octubre");
                 break;
             case 11:
-                System.out.println("Nomviebre");
+                System.out.println("Noviembre");
                 break;
             case 12:
                 System.out.println("Diciembre");
